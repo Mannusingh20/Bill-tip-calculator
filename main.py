@@ -8,7 +8,7 @@ print("_________________________")
 print("_________________________\n")
 
 kul_log = input ("Enter the number of people: ")
-kul_bill = input ("Enter the total bill:₹")
+kul_bill = input ("Enter the total bill: ₹")
 tip_percent = input("Enter the the tip percent: ")
 
 tip = float(tip_percent)/100 * float(kul_bill)
